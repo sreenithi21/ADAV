@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-06 12:39:54 by Eclipse SUMO netedit Version 1.17.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="standard_car" length="5.00" minGap="2.50" maxSpeed="25.00" accel="1.0" decel="4.5" sigma="0.5"/>
+    <!-- Routes -->
+    <route id="r_0" edges="-E6 E0 -E1 -E2 -E3" color="blue"/>
+    <route id="r_1" edges="-E5 E4" color="green"/>
+    <route id="r_2" edges="E3 E2 E1 -E0 E6" color="red"/>
+    <route id="r_3" edges="-E4 E5" color="0,128,128"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <vehicle id="E_N_0" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_1" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_10" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_11" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_2" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_3" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_4" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_5" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_6" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_7" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_8" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_9" type="standard_car" depart="14.00" departLane="random" departSpeed="10.00" route="r_3"/>
+</routes>

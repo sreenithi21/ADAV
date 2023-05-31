@@ -1,0 +1,12 @@
+<configuration>
+
+<input>
+<net-file value="env.net.xml"/>
+<route-files value="dem.rou.xml,pedestrians.trip.xml"/>
+</input>
+<time>
+<begin value="0"/>
+<end value="200000"/>
+</time>
+
+</configuration>

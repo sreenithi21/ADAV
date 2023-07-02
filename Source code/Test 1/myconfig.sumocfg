@@ -1,12 +1,12 @@
 <configuration>
 
 <input>
-<net-file value="env.net.xml"/>
-<route-files value="dem.rou.xml,pedestrians.trip.xml"/>
+<net-file value="t2.net.xml"/>
+<route-files value="Demo.rou.xml"/>
 </input>
 <time>
 <begin value="0"/>
-<end value="200000"/>
+<end value="100000"/>
 </time>
 
 </configuration>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-06-16 10:05:04 by Eclipse SUMO netedit Version 1.17.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="s1_car" length="4.00" minGap="5.00" maxSpeed="20.00"  accel="1.0" decel="4.5" sigma="0.5"/>
+    <vType id="s2_car" length="5.00" minGap="3.00" maxSpeed="25.00"  accel="1.0" decel="5.0" sigma="0.5"/>
+    <vType id="s3_car" length="3.00" minGap="5.00" maxSpeed="20.00"  accel="1.0" decel="4.5" sigma="0.5"/>
+    <vType id="s4_car" length="6.00" color="red">
+        <param key="has.bluelight.device" value="true"/> 
+    </vType>
+    <!-- Routes -->
+    <route id="r_0" edges="E10 E14"/>
+    <route id="r_1" edges="E13 -E10"/>
+    <route id="r_2" edges="E15 -E11 -E13"/>
+    <route id="r_3" edges="-E16 E12"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <vehicle id="E_N_0" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_1" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_10" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_11" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_12" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_13" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_14" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_15" type="s3_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_16" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_17" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_18" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_19" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_2" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_20" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_21" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_22" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_23" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_24" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_25" type="s3_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_26" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_27" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_28" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_29" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_3" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_30" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_31" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_32" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_33" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_34" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_35" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_36" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_37" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_38" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_39" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_4" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_40" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_41" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_42" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_43" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_44" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_45" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_46" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_47" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_48" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_49" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_5" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_50" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_51" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_52" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_53" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_54" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_55" type="s3_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_56" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_57" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_58" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_59" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_6" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_60" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_61" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_62" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_63" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_64" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_65" type="s3_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_66" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_67" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_68" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_69" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
+    <vehicle id="E_N_7" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+    <vehicle id="E_N_70" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
+    <vehicle id="E_N_8" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_9" type="s2_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_3"/>
+</routes>

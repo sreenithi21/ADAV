@@ -2,23 +2,27 @@
 
 <!-- generated on 2023-06-16 10:05:04 by Eclipse SUMO netedit Version 1.17.0
 -->
+<!-- Set the path to the SUMO tools directory
+sumo_tools_dir = "C:\Program Files (x86)\Eclipse\Sumo\tools"
+sys.path.append(sumo_tools_dir) -->
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
     <!-- VTypes -->
     <vType id="s1_car" length="4.00" minGap="5.00" maxSpeed="20.00"  accel="1.0" decel="4.5" sigma="0.5"/>
-    <vType id="s2_car" length="5.00" minGap="3.00" maxSpeed="25.00"  accel="1.0" decel="5.0" sigma="0.5"/>
+    <vType id="s2_car" length="5.00" minGap="3.00" maxSpeed="50.00"  accel="1.0" decel="5.0" sigma="0.5"/>
     <vType id="s3_car" length="3.00" minGap="5.00" maxSpeed="20.00"  accel="1.0" decel="4.5" sigma="0.5"/>
-    <vType id="s4_car" length="6.00" color="red">
-        <param key="has.bluelight.device" value="true"/> 
-    </vType>
+    <vType id="s4_car" length="5.00" minGap="5.00" maxSpeed="20.00"  accel="1.0" decel="4.5" sigma="0.5"/>
+    <!-- <vType id="s4_car" length="6.00" color="red">
+        <param key="has.bluelight.device" value="true"/>  -->
+    <!-- </vType> -->
     <!-- Routes -->
     <route id="r_0" edges="E10 E14"/>
     <route id="r_1" edges="E13 -E10"/>
     <route id="r_2" edges="E15 -E11 -E13"/>
     <route id="r_3" edges="-E16 E12"/>
     <!-- Vehicles, persons and containers (sorted by depart) -->
-    <vehicle id="E_N_0" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
-    <vehicle id="E_N_1" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_0" type="s4_car"  depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
+    <vehicle id="E_N_1" type="s4_car"  depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>
     <vehicle id="E_N_10" type="s4_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_2"/>
     <vehicle id="E_N_11" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_1"/>
     <vehicle id="E_N_12" type="s1_car" depart="10.00" departLane="random" departSpeed="10.00" route="r_0"/>

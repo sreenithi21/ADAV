@@ -1,0 +1,354 @@
+Vehicle ID: E_N_0
+Route ID: r_0
+Preceding Vehicle Distance: E_N_1
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_1
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_10
+Route ID: r_2
+Preceding Vehicle Distance: E_N_14
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_11
+Route ID: r_1
+Preceding Vehicle Distance: E_N_15
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_12
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_13
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_14
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_15
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_16
+Route ID: r_3
+Preceding Vehicle Distance: E_N_21
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_17
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_18
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_19
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_2
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_20
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_21
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_22
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_23
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_24
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_25
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_26
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_27
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_28
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_29
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_3
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_30
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_31
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_32
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_33
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_34
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_35
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_36
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_37
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_38
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_39
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_4
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_40
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_41
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_42
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_43
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_44
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_45
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_46
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_47
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_48
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_49
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_5
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_50
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_51
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_52
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_53
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_54
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_55
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_56
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_57
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_58
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_59
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_6
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_60
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_61
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_62
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_63
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_64
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_8
+
+Vehicle ID: E_N_65
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_66
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_67
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_70
+
+Vehicle ID: E_N_68
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_69
+
+Vehicle ID: E_N_69
+Route ID: r_2
+Preceding Vehicle Distance: E_N_10
+Succeeding Vehicle Distance: E_N_68
+
+Vehicle ID: E_N_7
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_9
+
+Vehicle ID: E_N_70
+Route ID: r_1
+Preceding Vehicle Distance: E_N_11
+Succeeding Vehicle Distance: E_N_67
+
+Vehicle ID: E_N_8
+Route ID: r_0
+Preceding Vehicle Distance: E_N_0
+Succeeding Vehicle Distance: E_N_64
+
+Vehicle ID: E_N_9
+Route ID: r_3
+Preceding Vehicle Distance: E_N_16
+Succeeding Vehicle Distance: E_N_7

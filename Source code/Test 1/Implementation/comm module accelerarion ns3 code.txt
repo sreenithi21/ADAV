@@ -1,0 +1,61 @@
+#include "ns3/core-module.h"
+#include "ns3/network-module.h"
+#include "ns3/mobility-module.h"
+#include "ns3/internet-module.h"
+#include "ns3/applications-module.h"
+
+using namespace ns3;
+
+int main()
+{
+  // Create nodes
+  NodeContainer nodes;
+  nodes.Create(2);
+
+  // Install mobility model on nodes
+  MobilityHelper mobility;
+  mobility.SetPositionAllocator("ns3::RandomRectanglePositionAllocator",
+                                "X", StringValue("ns3::UniformRandomVariable[Min=0|Max=100]"),
+                                "Y", StringValue("ns3::UniformRandomVariable[Min=0|Max=100]"));
+  mobility.SetMobilityModel("ns3::ConstantVelocityMobilityModel");
+  mobility.Install(nodes);
+
+  // Install network stack on nodes
+  InternetStackHelper stack;
+  stack.Install(nodes);
+
+  // Create point-to-point link between nodes
+  PointToPointHelper p2p;
+  p2p.SetDeviceAttribute("DataRate", StringValue("10Mbps"));
+  p2p.SetChannelAttribute("Delay", StringValue("2ms"));
+  NetDeviceContainer devices = p2p.Install(nodes);
+
+  // Assign IP addresses to devices
+  Ipv4AddressHelper address;
+  address.SetBase("10.1.1.0", "255.255.255.0");
+  Ipv4InterfaceContainer interfaces = address.Assign(devices);
+
+  // Create sender application
+  Ptr<Socket> senderSocket = Socket::CreateSocket(nodes.Get(0), TypeId::LookupByName("ns3::UdpSocketFactory"));
+  Ptr<Accelerometer> accelerometer = CreateObject<Accelerometer>(); // Custom Accelerometer class
+  accelerometer->SetAttribute("Acceleration", DoubleValue(5.0)); // Set initial acceleration
+  Ptr<AccelerometerSender> sender = CreateObject<AccelerometerSender>();
+  sender->SetSocket(senderSocket);
+  sender->SetAccelerometer(accelerometer);
+  nodes.Get(0)->AddApplication(sender);
+
+  // Create receiver application
+  Ptr<Socket> receiverSocket = Socket::CreateSocket(nodes.Get(1), TypeId::LookupByName("ns3::UdpSocketFactory"));
+  Ptr<AccelerometerReceiver> receiver = CreateObject<AccelerometerReceiver>();
+  receiver->SetSocket(receiverSocket);
+  nodes.Get(1)->AddApplication(receiver);
+
+  // Set start and stop time of simulation
+  Simulator::Stop(Seconds(10.0));
+
+  // Run the simulation
+  Simulator::Run();
+  Simulator::Destroy();
+
+  return 0;
+}

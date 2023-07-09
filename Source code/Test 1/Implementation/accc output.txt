@@ -1,0 +1,1017 @@
+Vehicle ID: E_N_48
+Acceleration: 0.9746834537945688
+-------------------------
+Vehicle ID: E_N_49
+Acceleration: 0.8174475688720122
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_57
+Acceleration: -0.4683912887374957
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: 0.6957634027348831
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_49
+Acceleration: 0.5131723887752733
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_57
+Acceleration: -0.9377177580229388
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: -0.6704126973428917
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_49
+Acceleration: 0.8871802492067218
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_57
+Acceleration: -0.6541759695392102
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: -1.0675327973500277
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: 0.1426617513621391
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_49
+Acceleration: 0.6332488064654171
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_57
+Acceleration: 2.3852237325627357
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: -2.4297896900431013
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: -0.8389139955818354
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_57
+Acceleration: 0.7006893507879486
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: -0.4410087895812467
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: -2.2372710350578187
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_57
+Acceleration: 1.7273730298620649
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: 0.2455236444948241
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: -1.1161189612208542
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: 0.9370982386171818
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: 0.3528675461450641
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: 0.410962475526107
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: 0.5125333925243467
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: -0.0914219879778102
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: -1.1417374956200366
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: 0.7036259152228013
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: 0.8928360173013061
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: -1.885749820436713
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_58
+Acceleration: 0.9061008614953607
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: 0.6365976871456951
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: -0.04748303212206828
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: 0.5636786675313488
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: -1.6898512681277307
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: 1.489104146120031
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_59
+Acceleration: 0.8266024992335588
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: -0.09019877790706232
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: -2.6558028927480706
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: 2.1764597549918108
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: -0.3617539857313208
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: 2.4176005928893574
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: -2.323868170329832
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: 0.6059550647623837
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_6
+Acceleration: 1.7106819197705665
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: 0.12324408395215869
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: -0.6622816941921261
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: -0.3366807976271957
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: -1.4226931499721562
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: 0.2910323244923134
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: 1.5538631490198886
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: -1.8541561170641252
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: -1.6469132322834046
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: 1.6968284285394475
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: -0.5421488308728266
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: -1.8109135240788818
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_62
+Acceleration: 1.4571272017201409
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: -0.08155632321722806
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: -0.42814281226921125
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: 0.5700479200009685
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: 0.8534167582402006
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: -0.5334512738371595
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: -1.640478989654289
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: 0.5605213213711977
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: 0.1526112426072359
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: -1.525944326367516
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: 0.9717671124963099
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: -0.39874187705572695
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: -0.32365362309405654
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_66
+Acceleration: 0.6785256585571915
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: 0.9479543340858072
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: -1.1056999556511746
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: 0.5588241713121533
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: 0.7812175304904283
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: 0.6000196447130293
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: 0.6202308568200472
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_67
+Acceleration: 0.6387346029514447
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: 0.2230047296335842
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 1.5504573974758387
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.4458719473332167
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.6331309812376276
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: 0.8019723115290462
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 1.0930753662250936
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.9467565701343119
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.6276183899026364
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -0.7285966791772953
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.6824226529570296
+-------------------------
+Vehicle ID: E_N_70
+Acceleration: 0.7369341633748263
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.4976281296054406
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 1.9700375015381724
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.7552150955889374
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.6407847029622644
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -1.727725157918509
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.6932170474901795
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.7102086250970756
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 1.31388144986704
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.9863859941251576
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.5785041256316301
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -0.3301838048673922
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.7910535455448553
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.26678399257703345
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 1.5395681329537183
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.9380137791158631
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.2941819268744439
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -0.3051393297202383
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.18912151263276833
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.7612656818237156
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 1.7176095182498101
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 1.3879060065373778
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.7716749387327582
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.578335545316941
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 0.3965153920580633
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: -1.2854600210226117
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.5313400093000382
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.04905915443669073
+-------------------------
+Vehicle ID: E_N_5
+Acceleration: 1.6273209045175463
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.9889869730686769
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: -0.5612590244613829
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -0.7035607672878541
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: -0.45910246306136493
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.5753993730759248
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.5711421415762739
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.8160393815487623
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: -1.2310897551781972
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 1.6913748733350076
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: -2.06101184264066
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.8305053490912542
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.7312688560923561
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: -0.06536338048317747
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.644592029391788
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: -0.17954805509026173
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -0.9040346495501419
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.03562571306247264
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.5285411920631304
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: -1.028308411423188
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 1.5277864753115873
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.9309587250463665
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.05448935367166996
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -1.0523192400184351
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.07469398225657642
+-------------------------
+Vehicle ID: E_N_64
+Acceleration: 0.5074695755029097
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: -1.0831368991699666
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 0.0
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.10907089989389984
+-------------------------
+Vehicle ID: E_N_50
+Acceleration: 0.8527015381259844
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 0.08424865920096636
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 0.35907402407700406
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.8346326800528914
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: -3.2082928924500083
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -0.5062067837070572
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 0.8674551751266533
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.1549146259203553
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 0.14289161475667989
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.9880411886842921
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: -0.1316206066403538
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -1.4302130503086552
+-------------------------
+Vehicle ID: E_N_8
+Acceleration: 1.9342208763118824
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.600922615500167
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: -0.4463555928452374
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: -0.5019290428455134
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.39012386661488563
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -2.156799757983454
+-------------------------
+Vehicle ID: E_N_56
+Acceleration: 1.9113745267968625
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 0.5581484609865583
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: -1.1553342272404565
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.6220784415490925
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 0.9680605681792134
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 2.048912243626546
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: -0.4888558949154671
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.5601480521727353
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -1.3149366663700643
+-------------------------
+Vehicle ID: E_N_60
+Acceleration: 2.0712187414756045
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.13940510770771652
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.6029282045783475
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 0.11597752250963822
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: -0.06999400211498141
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.8888059984892616
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 1.8916846805950636
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.9365399384405464
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: -0.8834167233733545
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 1.3870374258250084
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.5360431693261489
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: -2.1665657350961043
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -1.6669404257071854
+-------------------------
+Vehicle ID: E_N_61
+Acceleration: 0.5838526295265183
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.10131646564695984
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -0.633898291073371
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.5010303168091923
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -0.38905635526778504
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.9674991308711469
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -0.4777968530839427
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.9429326597601175
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -0.3269253624603152
+-------------------------
+Vehicle ID: E_N_68
+Acceleration: 0.5370387063594544
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: -0.5161930338363163
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 1.8090413880418055
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 1.9342172326287264
+-------------------------
+Vehicle ID: E_N_69
+Acceleration: 2.3200200212886557
+-------------------------
